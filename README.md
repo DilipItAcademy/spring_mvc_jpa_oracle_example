@@ -18,12 +18,14 @@ Requirement:   Write a Rest Service for User Registration.
           •	Password
           
 	Create REST Service for Fetching USER Details based on email ID. 
+
 	Create REST API call for fetching all Users information. 
      
 User Details :
-      User Name
-      Mobile Number
-      Email Id 
+
+     	User Name      
+      	Mobile Number
+      	Email Id 
 
  
 
